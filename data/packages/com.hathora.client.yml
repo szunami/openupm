@@ -8,7 +8,7 @@ licenseName: MIT License
 topics:
   - integration
   - network
-hunter: szunami
+hunter: hpx7
 gitTagPrefix: 'openupm'
 gitTagIgnore: ''
 minVersion: ''
